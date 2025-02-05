@@ -180,7 +180,7 @@ MonoBehaviour:
   maxY: 12.76
   Remains: {fileID: 1441535039807206063, guid: 925c059b85af2ff41935b3f2f69ad067, type: 3}
   soundWhenEnemyDies: {fileID: 2772323492678297236, guid: 8983262b105d3764980397b2444e4e0a, type: 3}
-  gameOverIndex4: 4
+  gameOverIndex4: 3
 --- !u!95 &7554153347918230577
 Animator:
   serializedVersion: 5
